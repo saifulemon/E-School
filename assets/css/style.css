@@ -1,0 +1,50 @@
+.header-sec {
+    height: 576px;
+    background-color:  #F0FFF0;
+}
+.logo-img {
+    max-width: 200px;
+}
+.common-bg {
+    background-color: #21B573;
+}
+.common-text-color {
+    color: #21B573;
+}
+.common-btn {
+    width: 153px !important;
+    height: 43px;
+    border: none;
+}
+.ready-learn {
+    color: #FD511A;
+}
+.sign-in {
+    width: 104px;
+}
+h5 {
+    font-size: 24px;
+}
+.info-card {
+    width: 270px;
+    height: 270px;
+    background: #F8FFFB;
+    border: none;
+}
+.info-card img {
+    width: 66px;
+    height: 85px;
+}
+span img {
+    width: 24px;
+    height: 24px;
+}
+.img-fluid-man {
+    width: 120px;
+}
+.footer-sec {
+    background: #282531;
+}
+li a {
+    color: white;
+}
